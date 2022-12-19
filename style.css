@@ -1,0 +1,15 @@
+#ini{
+    height: 100vh;
+}
+h1{
+    margin: 0 auto; text-align: center;color: #2f0c48;
+}
+#foto img{
+    width: 140%;
+}
+h3{
+    margin:auto; text-align: center;color: #661f98;
+}
+*{
+    margin: auto;
+}
